@@ -1,7 +1,7 @@
 # OOP-Praktikum-5
 ![](assets/soal.png)
 
-## 1. Bangun Datar
+## Bangun Datar
 ```java
 public class BangunDatar {
 
@@ -17,7 +17,7 @@ public class BangunDatar {
 }
 ```
 
-## 2. Lingkaran
+## Lingkaran
 ```java
 public class Lingkaran extends BangunDatar {
     private int r;
@@ -39,7 +39,7 @@ public class Lingkaran extends BangunDatar {
 }
 ```
 
-## 3. Seigita
+## Segitiga
 ```java
 public class Persegi extends BangunDatar {
     private float sisi;
@@ -58,7 +58,7 @@ public class Persegi extends BangunDatar {
 }
 ```
 
-## 4. Persegi
+## Persegi
 ```java
 public class Persegi extends BangunDatar {
     private float sisi;
